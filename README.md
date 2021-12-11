@@ -1,3 +1,7 @@
 # learngit
 Create
-AND
+<<<<<<< HEAD
+and
+=======
+and
+>>>>>>> dev
